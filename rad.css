@@ -30,6 +30,9 @@ img.circle { border-radius: 50%; }
 
 .inverted { background-color: #000000; color: #ffffff; }
 
+.invisible { visibility: hidden; }
+.null { display: none; }
+
 /* responsive YouTube video */
 /* http://embedresponsively.com/ */
 
