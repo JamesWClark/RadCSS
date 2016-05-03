@@ -6,6 +6,8 @@ img.circle { border-radius: 50%; }
 .flex { display: flex; }
 .flex > * { min-width: 1px; } /* fix firefox flex overflow - http://stackoverflow.com/questions/27424831/firefox-flexbox-overflow */
 
+.column { flex-direction: column; }
+.row { flex-direction: row; }
 .wrap { flex-wrap: wrap; }
 
 .x1 { flex: 1; }
