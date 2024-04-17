@@ -1,7 +1,7 @@
 # RadCSS
 It's rad and it's mine, but it's no bootstrap...
 
-Hosted on jsdeliv, barely always under development:  
+Hosted on jsdelivr, barely always under development:  
 `<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/JamesWClark/RadCSS/rad.css">`
 
 It's rude too...  
