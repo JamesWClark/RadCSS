@@ -32,8 +32,9 @@ img.circle { border-radius: 50%; }
 
 .inverted { background-color: #000000; color: #ffffff; }
 
+.null,
+.hidden { display: none; }
 .invisible { visibility: hidden; }
-.null { display: none; }
 
 .noselect { /* http://stackoverflow.com/questions/826782/css-rule-to-disable-text-selection-highlighting */
   -webkit-touch-callout: none; /* iOS Safari */
