@@ -1,5 +1,8 @@
 # RadCSS
-A web design framework - for the sake of my own experience, rather than your production...
+It's rad and it's mine, but it's no bootstrap...
 
-Hosted on Rawgit, under development:  
-`<link rel="stylesheet" href="https://cdn.rawgit.com/JamesWClark/RadCSS/master/rad.css" />`
+Hosted on jsdeliv, barely always under development:  
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/JamesWClark/RadCSS/rad.css">`
+
+It's rude too...  
+`<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/JamesWClark/RadCSS/rude.css">`
